@@ -42,8 +42,8 @@
         <jetbrains.version>20.1.0</jetbrains.version>
         <junit.version>5.8.0-M1</junit.version>
 
-        <cloud.version>1.4.0</cloud.version>
-        <commodore.version>1.9</commodore.version>
+        <cloud.version>1.5.0</cloud.version>
+        <commodore.version>1.10</commodore.version>
         <adventure.version>4.7.0</adventure.version> <!-- keep updated with Paper: https://github.com/PaperMC/Paper/blob/master/Spigot-API-Patches/0005-Adventure.patch -->
         <adventure.bukkit.version>4.0.0-SNAPSHOT</adventure.bukkit.version>
         <minimessage.version>4.1.0-SNAPSHOT</minimessage.version>

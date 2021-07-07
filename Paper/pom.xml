@@ -123,10 +123,6 @@
                             <pattern>redis.clients.jedis</pattern>
                             <shadedPattern>me.egg82.antivpn.external.redis.clients.jedis</shadedPattern>
                         </relocation>
-                        <relocation>
-                            <pattern>it.unimi.dsi</pattern>
-                            <shadedPattern>me.egg82.antivpn.external.it.unimi.dsi</shadedPattern>
-                        </relocation>
                     </relocations>
                 </configuration>
                 <executions>
@@ -241,7 +237,6 @@
             <version>${paper.version}</version>
             <scope>provided</scope>
         </dependency>
-
         <dependency>
             <groupId>cloud.commandframework</groupId>
             <artifactId>cloud-paper</artifactId>
